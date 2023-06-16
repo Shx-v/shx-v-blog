@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact thst a reader will be distracted",
+      "author": "shxv",
+      "id": 1
+    },
+    {
+      "title": "Bgmi !!",
+      "body": "BGMI stands for \"Battlegrounds Mobile India.\" It is a popular battle royale game developed and published by Krafton, specifically designed for the Indian market. BGMI is the Indian version of PUBG Mobile, which was banned in India in September 2020 due to concerns over data privacy and security.\n\nBattlegrounds Mobile India was launched as a replacement for PUBG Mobile in July 2021. It features similar gameplay mechanics and a battle royale format where players fight against each other until only one player or team remains standing. The game has various maps, weapons, and gameplay modes for players to enjoy.\n\nBGMI is available for download on mobile devices running Android and iOS operating systems. It has gained a significant player base in India and has been well-received by the gaming community since its launch.",
+      "author": "lucky",
+      "id": 3
+    }
+  ]
+}
